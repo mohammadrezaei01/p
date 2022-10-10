@@ -1,0 +1,81 @@
+﻿Flash BIOS update - Flash from Operating System version for Lenovo Legion 5 15IMH05S/Legion 5 15IMH05H/Legion 5 15IMH05/Legion 5P 15IMH05S/Legion 5P 15IMH05H/Legion 5P 15IMH05/Legion 5 17IMH05S/Legion 5 17IMH05H/Legion 5 17IMH05/Legion Y7000 2020H/Legion Y7000 2020/Legion Y7000P2020H/Legion Y7000P2020
+====================================================================================================
+Version EFCN54WW
+
+Applicable OS: Win 10 64bit  
+
+Installation README
+Updated Date: 2022-02-14
+This package updates the basic input/output system (BIOS) on Lenovo Legion 5 15IMH05S/Legion 5 15IMH05H/Legion 5 15IMH05/Legion 5P 15IMH05S/Legion 5P 15IMH05H/Legion 5P 15IMH05/Legion 5 17IMH05S/Legion 5 17IMH05H/Legion 5 17IMH05/Legion Y7000 2020H/Legion Y7000 2020/Legion Y7000P2020H/Legion Y7000P2020
+BIOS, abbreviation of Basic Input Output System, is integrated in ROM chip on main board, which contains the basic input/output program, system configuration information, system startup self-check and pre-setup programs. BIOS provides most basic low-level hardware operations; it is the connection between software and hardware, and interfacing window of hardware and operating system.
+
+Note: Make note of any settings you have changed in the BIOS Configuration Utility. These settings may have to be re-entered after updating the BIOS.
+
+Attention: Do not power off or restart your computer during the BIOS flashing process, which will cause serious damage and improper functioning of your computer.
+
+Print this file so that you can refer to it during the installation.
+
+Downloading the package
+=======================
+1. Click the file link to download the file from the web page.
+2. When prompted, select a drive and directory in which to save the downloaded file.
+
+Installing the package in Windows.
+======================
+Please follow bellowed step to update BIOS in Windows:
+1.  Locate the file EFCN54WW.exe that has been downloaded.
+2.  Double click the EFCN54WW.exe icon.
+3.  Follow wizard UI by making sure what BIOS to flash and flash on what platform
+4.  Finally press Install & Finish to start flashing. During the process, you are advised not to turn off the computer.
+5.  When the update finishes, the computer will automatically reboot for the changes to take effect.
+
+Updated Information:
+
+Latest Version BIOS fixed all merged issues from previous.
+
+Summary of changes
+==================
+General Information:
+EFCN54WW:
+BIOS Notification      :
+1. Fixed
+    1)  None.
+
+2. Add
+    1)  None.
+
+3. Modified
+  1) Enhancement to address security vulnerability LEN-73440/73441/73442
+  2) Enhancement to address security vulnerability LEN-68085/73436/73452
+  3) Enhancement to address security vulnerability CVE-2021-0091/0103/0107/0111/0114/0115/0116/0117/0118/0119/0124/0125/0156/0157/0158.
+  4) Enhancement to address security vulnerability CVE-2021-0127
+
+EC Notification      :
+1. Fixed
+   1) None.
+
+2. Add
+   1) None.
+
+3. Modified
+   1) Enhancement to address security vulnerability LEN-73440/73441/73442
+
+
+
+
+Trademarks
+==========
+IdeaPad and IdeaCentre are registered trademarks of Lenovo.
+
+Microsoft and Windows are trademarks of Microsoft Corporation in 
+the United States, other countries, or both. Other company, product, 
+and service names may be trademarks or service marks of others.
+
+THIS DOCUMENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.  
+WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, 
+INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF FITNESS 
+FOR A PARTICULAR PURPOSE AND MERCHANTABILITY WITH RESPECT TO THE 
+INFORMATION IN THIS DOCUMENT.  BY FURNISHING THIS DOCUMENT, WEGRANT 
+NO LICENSES TO ANY PATENTS OR COPYRIGHTS.
+
+Copyright (c) Lenovo 2008, all rights reserved
